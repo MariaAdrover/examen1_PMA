@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">examen1</string>
+    <string name="numero">0</string>
+    <string name="texto_toast">TOAST</string>
+    <string name="texto_count">COUNT</string>
+    <string name="zero">ZERO</string>
+</resources>
